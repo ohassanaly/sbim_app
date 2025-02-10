@@ -3,6 +3,8 @@ Main architecture would include :
 
 - PDF reader to retrieve text
 
-- Prompt to ask for structred data extraction
+- Prompt to ask for structured data extraction
 
-- OpenAI API request to perfrom data extraction
+- OpenAI API request to perform data extraction
+
+![Alt text](docs/process_summary.png)
